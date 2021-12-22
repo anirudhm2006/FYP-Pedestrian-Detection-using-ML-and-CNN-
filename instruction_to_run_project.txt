@@ -1,0 +1,13 @@
+
+
+1. Open the py file "videoplayer.py".
+
+2. Right click, select "Run videoplayer.py"
+
+3. File dialog pops up on the screen.
+
+4. Select ML -> CNN -> select filename "pedestrians.mp4".
+
+5. Select, open the file, and run.
+
+6. Press Q to stop the video and exit. 
